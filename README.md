@@ -39,7 +39,7 @@ mitigating damage and restoring operations after an attack or failure. Additiona
 intrusion detection systems, and load balancing helps safeguard against disruptions and maintain system performance, 
 even under attack.
 
-##Resources:
+## Resources:
 
 https://www.geeksforgeeks.org/the-cia-triad-in-cryptography/
 
@@ -47,6 +47,6 @@ https://www.fortinet.com/resources/cyberglossary/cia-triad
 
 https://www.sailpoint.com/identity-library/cia-triad
 
-###Image:
+### Image:
 
 https://www.nist.gov/image/cia-triad
