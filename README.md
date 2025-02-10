@@ -39,5 +39,7 @@ even under attack.
 
 Resources:
 https://www.geeksforgeeks.org/the-cia-triad-in-cryptography/
+
 https://www.fortinet.com/resources/cyberglossary/cia-triad
+
 https://www.sailpoint.com/identity-library/cia-triad
