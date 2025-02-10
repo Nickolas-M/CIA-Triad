@@ -3,6 +3,8 @@ The CIA Triad is a model used by organizations to design and develop their secur
 It encompasses three core principles: Confidentiality, Integrity, and Availability. These principles act as 
 the foundation for addressing and prioritizing security concerns within an organization.
 
+![cyber-triad-1](https://github.com/user-attachments/assets/9ea6a5d2-bc10-42f7-911a-aa31f44e0a88)
+
 ## Confidentiality
 Confidentiality ensures that sensitive information is protected from unauthorized access. It’s crucial that 
 only individuals who have a legitimate need to know can access specific data. One way to manage this is by 
@@ -37,10 +39,14 @@ mitigating damage and restoring operations after an attack or failure. Additiona
 intrusion detection systems, and load balancing helps safeguard against disruptions and maintain system performance, 
 even under attack.
 
-Resources:
+##Resources:
 
 https://www.geeksforgeeks.org/the-cia-triad-in-cryptography/
 
 https://www.fortinet.com/resources/cyberglossary/cia-triad
 
 https://www.sailpoint.com/identity-library/cia-triad
+
+###Image:
+
+https://www.nist.gov/image/cia-triad
