@@ -38,6 +38,7 @@ intrusion detection systems, and load balancing helps safeguard against disrupti
 even under attack.
 
 Resources:
+
 https://www.geeksforgeeks.org/the-cia-triad-in-cryptography/
 
 https://www.fortinet.com/resources/cyberglossary/cia-triad
